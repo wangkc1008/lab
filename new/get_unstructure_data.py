@@ -74,4 +74,4 @@ def handle_data():
 if __name__ == '__main__':
     # get_data()
     # get_common_data()  # 这个没用
-    handle_data()  # 测试
+    handle_data()  # 测试1
