@@ -1,0 +1,3 @@
+2021-04-20 16:22:38,419 - C:/Users/wangkc/anacoda/lab/v7(2021.4)/main.py[line:33] - DEBUG: 原数据size: (1132, 816)
+2021-04-20 16:22:38,592 - C:/Users/wangkc/anacoda/lab/v7(2021.4)/main.py[line:35] - DEBUG: 原数据X_size: (1132, 815), y_size: (1132,)
+2021-04-20 16:22:38,593 - C:/Users/wangkc/anacoda/lab/v7(2021.4)/main.py[line:36] - DEBUG: 原数据y分布: Counter({0: 876, 1: 256})
