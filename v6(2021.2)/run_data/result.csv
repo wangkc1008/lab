@@ -1,0 +1,1 @@
+run,epoch,loss,accuracy,precision,recall,f1,auc,epoch_duration,run_duration,lr,batch_size,shuffle,device,num_workers
